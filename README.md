@@ -9,7 +9,7 @@
 ---
 ### :computer: **Technologies I use the most**
 - [X] LaTeX
-- [X] HTML5
+- [X] HTML5/Fomantic-UI
 - [X] CSS3/SASS
 - [X] Python
 - [X] Django
