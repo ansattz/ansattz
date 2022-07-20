@@ -11,7 +11,7 @@
 - [X] LaTeX
 - [X] HTML5/Fomantic-UI
 - [X] CSS3/SASS
-- [X] Python/Flask
+- [X] Python
 - [X] Django
 - [X] JavaScript
 ---
@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://github.com/ansattz/ansattz/blob/main/static/img/badges/edcode.png" width="350" alt="Badge ONE-Github">
   <img src="https://github.com/ansattz/ansattz/blob/main/static/img/badges/js.png" width="350" alt="Badge ONE-JavaScript">
-  <img src="https://github.com/ansattz/ansattz/blob/main/static/img/portfolio/js.png" width="350" alt="Badge ONE-Portfolio">
+  <img src="https://github.com/ansattz/ansattz/blob/main/static/img/badges/portfolio.png" width="350" alt="Badge ONE-Portfolio">
 </p>
 
 ---
