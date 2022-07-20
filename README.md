@@ -11,7 +11,7 @@
 - [X] LaTeX
 - [X] HTML5/Fomantic-UI
 - [X] CSS3/SASS
-- [X] Python
+- [X] Python/Flask
 - [X] Django
 - [X] JavaScript
 ---
@@ -20,6 +20,7 @@
 <p align="center">
   <img src="https://github.com/ansattz/ansattz/blob/main/static/img/badges/edcode.png" width="350" alt="Badge ONE-Github">
   <img src="https://github.com/ansattz/ansattz/blob/main/static/img/badges/js.png" width="350" alt="Badge ONE-JavaScript">
+  <img src="https://github.com/ansattz/ansattz/blob/main/static/img/portfolio/js.png" width="350" alt="Badge ONE-Portfolio">
 </p>
 
 ---
@@ -28,19 +29,3 @@
 - [Linkedin](https://www.linkedin.com/in/dvsantos/)
 - [Github Pages profile](https://ansattz.github.io/)
 - [Discord](https://discord.gg/nsvhfu7VRM)
-
-
-<!--
-**ansattz/ansattz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
